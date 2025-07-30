@@ -104,4 +104,4 @@ This project is licensed under the MIT License.
 ---
 
 ## ✨ Author
-- Taruuu ([@SangeethaSharvani](https://github.com/SangeethaSharvani))
+- Sangeetha ([@SangeethaSharvani](https://github.com/SangeethaSharvani))
