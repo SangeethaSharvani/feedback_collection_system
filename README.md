@@ -51,10 +51,6 @@ It offers:
 
 ---
 
-## 📸 Screenshots
-*(add screenshots or gifs of your UI here later)*
-
----
 
 ## 🚀 Getting Started
 ```bash
@@ -95,11 +91,6 @@ npm test
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
 Check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
 
 ---
 
