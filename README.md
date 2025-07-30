@@ -2,7 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SangeethaSharvani/feedback-collection-system?color=blue)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![License](https://img.shields.io/github/license/SangeethaSharvani/feedback-collection-system)
 ![Made with](https://img.shields.io/badge/Made%20with-Python%20%7C%20React-blue?logo=python&logoColor=white)
 
 ---
@@ -47,10 +46,14 @@ It offers:
 ---
 
 ## 🔄 User Flow
-![User Flow Diagram](flow.png)
+![User Flow Diagram](user-flow.png)
 
 ---
 
+## 📸 Screenshots
+*(add screenshots or gifs of your UI here later)*
+
+---
 
 ## 🚀 Getting Started
 ```bash
