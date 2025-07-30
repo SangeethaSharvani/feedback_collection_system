@@ -92,8 +92,8 @@ npm test
 ---
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions, issues, and feature requests are welcome!
+
 
 ---
 
