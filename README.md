@@ -50,10 +50,6 @@ It offers:
 
 ---
 
-## 📸 Screenshots
-*(add screenshots or gifs of your UI here later)*
-
----
 
 ## 🚀 Getting Started
 ```bash
