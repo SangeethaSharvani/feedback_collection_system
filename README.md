@@ -46,7 +46,7 @@ It offers:
 ---
 
 ## 🔄 User Flow
-![User Flow Diagram](user-flow.png)
+![User Flow Diagram](flow.png)
 
 ---
 
